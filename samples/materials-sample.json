@@ -1,0 +1,38 @@
+{
+  "format": "yobi-tore-materials",
+  "version": 1,
+  "materials": [
+    {
+      "id": "sample-minpo-5-per-item",
+      "exam": "見本（自作の練習問題）",
+      "subject": "minpo",
+      "field": "総則：未成年者",
+      "questionLabel": "見本1",
+      "kind": "original-practice",
+      "format": "per-item",
+      "stem": "【取り込み形式の見本】民法第５条第１項に関する次のア及びイの各記述について、それぞれ正しい場合には１を、誤っている場合には２を選びなさい。",
+      "items": [
+        { "label": "ア", "text": "未成年者が法律行為をするには、原則として、その法定代理人の同意を得なければならない。" },
+        { "label": "イ", "text": "未成年者が単に権利を得る法律行為をするときも、その法定代理人の同意を得なければならない。" }
+      ],
+      "answer": { "ア": 1, "イ": 2 },
+      "points": 2,
+      "partial": { "1": 1 },
+      "source": { "title": "自作（民法第５条第１項の条文をもとに作成）", "url": "https://laws.e-gov.go.jp/law/129AC0000000089" },
+      "license": { "name": "利用者が作成（端末内での個人利用）", "attribution": "自作" },
+      "modification": "自作のため該当なし",
+      "lawBaseDate": "2026-10-17",
+      "verification": "unverified",
+      "verificationNote": "見本のため未確認として登録する",
+      "retrievedAt": "2026-10-17",
+      "revision": 1,
+      "explanation": {
+        "summary": "民法５条１項の本文とただし書の関係を確かめる見本です。",
+        "items": [
+          { "label": "ア", "verdict": "correct", "text": "５条１項本文のとおりです。" },
+          { "label": "イ", "verdict": "incorrect", "text": "５条１項ただし書により、単に権利を得る法律行為には同意は不要です。" }
+        ]
+      }
+    }
+  ]
+}
